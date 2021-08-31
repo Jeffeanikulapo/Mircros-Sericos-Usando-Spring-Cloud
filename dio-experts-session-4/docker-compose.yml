@@ -1,0 +1,23 @@
+version: '3.7'
+
+services:
+
+  elasticsearch:
+    container_name: "elasticseach"
+    image: elasticsearch: 6.6.2
+    ports:
+
+      - 9200:9200
+      - 9300:9300
+
+        enviranment:
+
+    - discovery.type=single-node
+
+  redis:
+    container_name: "redis"
+    image: redis:3.0.1
+    ports:
+
+      - 6379:6379
+
