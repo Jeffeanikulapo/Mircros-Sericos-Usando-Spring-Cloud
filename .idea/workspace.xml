@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a1267e2-5942-4d10-8ef9-898f7235131f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/config-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/product-catalog">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/service-discovery">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/shopping-cart">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/product-catalog">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/product-catalog">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/shopping-cart">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/config-server">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/service-discovery">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="config-server" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="shopping-cart" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="shopping-cart" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="shopping-cart" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xUqQZ3u0kDiMGNqUBLb3BNtOeJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/gateway" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jefe_\OneDrive\Área de Trabalho\Development\BootCampDioSantander\Contruindo Projeto Arquitetura Microseserviços\dio-experts-session-4\product-catalog\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.shopping-cart [bootRun]">
+    <configuration name="C:/Users/jefe_/OneDrive/Área de Trabalho/dio-experts-session-4/product-catalog [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/product-catalog" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="config-server [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/config-server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="product-catalog [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/product-catalog" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="service-discovery [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/service-discovery" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-cart [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Development/BootCampDioSantander/Contruindo Projeto Arquitetura Microseserviços/dio-experts-session-4/shopping-cart" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.product-catalog [bootRun]" />
+        <item itemvalue="Gradle.shopping-cart [bootRun]" />
+        <item itemvalue="Gradle.service-discovery [bootRun]" />
+        <item itemvalue="Gradle.config-server [bootRun]" />
+        <item itemvalue="Gradle.C:/Users/jefe_/OneDrive/Área de Trabalho/dio-experts-session-4/product-catalog [bootRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a1267e2-5942-4d10-8ef9-898f7235131f" name="Changes" comment="" />
+      <created>1630420007670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630420007670</updated>
+    </task>
+    <servers />
+  </component>
+</project>
